@@ -149,11 +149,11 @@ footer nav a {
     display: block;
     margin-bottom: 16px;
     text-decoration: none;
-    max-width: 350px;
 }
 
 footer p {
     margin-bottom: 16px;
+    max-width: 350px;
 }
 
 footer p a {
